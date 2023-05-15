@@ -5,11 +5,14 @@ this is the console program
 import cmd
 from models.base_model import BaseModel
 from models import storage
+import json
+import shlex
+from models.user import User
 
 Class HBNBCommand(cmd.Cmd):
     """command to access models"""
     prompt = '(hbnb) '
-    mydict  = {}
+    mydict  = {"BaseModel": BaseModel, "User": User, "State": State, "City": City, "Amenity": Amenity, "Place": Place, "Review": Review}
 
     def do_nothing(self, arg):
         """it does nothing"""
