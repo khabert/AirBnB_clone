@@ -3,7 +3,7 @@
 user sub class that inherits from base model
 """
 
-from model.base_model import BaseModel
+from models.base_model import BaseModel
 
 class User(BaseModel):
     """user sub class"""

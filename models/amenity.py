@@ -1,10 +1,12 @@
 #!/usr/bin/python3
-"""This module creates a Amenity class"""
-
-from models.base_model import BaseModel
+"""
+Defines the state model
+"""
+from .base_model import BaseModel
 
 
 class Amenity(BaseModel):
-    """Class for managing amenity objects"""
-
+    """
+    Amenity class that inherits from BaseModel
+    """
     name = ""

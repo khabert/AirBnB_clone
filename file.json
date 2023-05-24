@@ -1,0 +1,33 @@
+{
+  "BaseModel.76c5966f-9b50-45e6-b5ac-8306df6f262f": {
+    "id": "76c5966f-9b50-45e6-b5ac-8306df6f262f",
+    "created_at": "2023-05-14T13:22:59.641754",
+    "updated_at": "2023-05-14T13:22:59.641761",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.90764b67-e0bd-4315-8d9e-6b51e05bc9fa": {
+    "id": "90764b67-e0bd-4315-8d9e-6b51e05bc9fa",
+    "created_at": "2023-05-14T13:26:40.879641",
+    "updated_at": "2023-05-14T13:26:40.879682",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.c91d3f67-25ad-4ec5-bfac-1441490aace7": {
+    "id": "c91d3f67-25ad-4ec5-bfac-1441490aace7",
+    "created_at": "2023-05-14T14:19:21.009871",
+    "updated_at": "2023-05-14T14:19:21.009879",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.8490f46b-dcfc-4c44-bd94-08a030bb4945": {
+    "id": "8490f46b-dcfc-4c44-bd94-08a030bb4945",
+    "created_at": "2023-05-14T14:27:04.672178",
+    "updated_at": "2023-05-14T14:27:04.672188",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d5350189-ecda-472e-b95e-26db8b25079e": {
+    "id": "d5350189-ecda-472e-b95e-26db8b25079e",
+    "created_at": "2023-05-14T14:45:09.750010",
+    "updated_at": "2023-05-14T14:45:09.750022",
+    "email": "sylvaintagnabou@gmail.com",
+    "__class__": "BaseModel"
+  }
+}
